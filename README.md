@@ -17,13 +17,11 @@ Obrigado por visitar meu perfil do GitHub!
 
 ## Tech Stack :rocket:
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,kotlin,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,kotlin,swift)](https://skillicons.dev)
 ### Front End
-[![My Skills](https://skillicons.dev/icons?i=react,redux,vite,electron,apollo,graphql,css)](https://skillicons.dev)
-### Back End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,nestjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 ### Enviroments
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev)
 
 # Education
 <table>
