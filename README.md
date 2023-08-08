@@ -25,7 +25,7 @@ Obrigado por visitar meu perfil do GitHub!
   </tr>
   <tr>
     <td>analysis and systems development</td>
-    <td><a href="[https://www.betrybe.com/](https://www.fiap.com.br/)">FIAP</a></td>
+    <td><a href="https://www.fiap.com.br/FIAP">FIAP</a></td>
     <td>2025</td>
   </tr>
   <tr>
