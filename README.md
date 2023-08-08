@@ -24,6 +24,11 @@ Obrigado por visitar meu perfil do GitHub!
     <th>Year of Passing</th>
   </tr>
   <tr>
+    <td>analysis and systems development</td>
+    <td><a href="[https://www.betrybe.com/](https://www.fiap.com.br/)">FIAP</a></td>
+    <td>2025</td>
+  </tr>
+  <tr>
     <td>Software Development</td>
     <td><a href="https://www.betrybe.com/">Trybe</a></td>
     <td>2021</td>
